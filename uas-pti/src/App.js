@@ -35,7 +35,7 @@ function App() {
           alt="f4"
           onClick={handleClick2}
         />
-        {/*Logo Kelompok jika diklik akan ke menuju About Us (jika ada)*/}
+        {/*Logo Kelompok jika diklik akan menuju ke About Us*/}
       </div>
       <br />
       <div className="inputName">
