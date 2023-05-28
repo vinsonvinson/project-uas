@@ -2,12 +2,13 @@ import React from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import "./Story.css";
 
-function Story(props) {
+function Story() {
   const navigate = useNavigate();
   let { name } = useParams();
+  let { cate } = useParams();
 
   const handleClick = () => {
-    navigate("/quiz");
+    navigate("/quiz/" + name + "/" + cate);
   };
 
   return (

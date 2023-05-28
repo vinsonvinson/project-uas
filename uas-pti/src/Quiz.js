@@ -6,19 +6,19 @@ function Quiz() {
     <div className="Quiz-container">
       <div className="m-5 p-3 fs-3 question-container d-flex justify-content-between">
         <div className="d-flex justify-content-start">
-          <i class="fa-solid fa-plus statusIcon"></i>
-          <div id="health" class="healthbar">
-            <div class="bar">
-              <div class="progress"></div>
+          <i className="fa-solid fa-plus statusIcon"></i>
+          <div id="health" className="healthbar">
+            <div className="bar">
+              <div className="progress"></div>
             </div>
           </div>
         </div>
         <div>Level</div>
         <div className="d-flex justify-content-start">
-          <i class="fa-solid fa-skull statusIcon"></i>
-          <div id="enemy" class="enemybar">
-            <div class="bar">
-              <div class="progress"></div>
+          <i className="fa-solid fa-skull statusIcon"></i>
+          <div id="enemy" className="enemybar">
+            <div className="bar">
+              <div className="progress"></div>
             </div>
           </div>
         </div>
