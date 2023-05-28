@@ -8,7 +8,7 @@ function App() {
 
   const handleClick = () => {
     if (name.trim() !== '') {
-      navigate('/story');
+      navigate('/story', { state: { name } });
     }
   };
 
