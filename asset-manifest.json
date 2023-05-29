@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/uas-pti-lec-lab-/static/css/main.7e81b5c3.css",
-    "main.js": "/uas-pti-lec-lab-/static/js/main.55af1ed1.js",
-    "index.html": "/uas-pti-lec-lab-/index.html",
-    "main.7e81b5c3.css.map": "/uas-pti-lec-lab-/static/css/main.7e81b5c3.css.map",
-    "main.55af1ed1.js.map": "/uas-pti-lec-lab-/static/js/main.55af1ed1.js.map"
+    "main.css": "/vinsonvinson.github.io/static/css/main.7e81b5c3.css",
+    "main.js": "/vinsonvinson.github.io/static/js/main.55af1ed1.js",
+    "index.html": "/vinsonvinson.github.io/index.html",
+    "main.7e81b5c3.css.map": "/vinsonvinson.github.io/static/css/main.7e81b5c3.css.map",
+    "main.55af1ed1.js.map": "/vinsonvinson.github.io/static/js/main.55af1ed1.js.map"
   },
   "entrypoints": [
     "static/css/main.7e81b5c3.css",
